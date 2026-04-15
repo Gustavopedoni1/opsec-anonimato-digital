@@ -28,12 +28,11 @@ O objetivo é transformar informação dispersa em um material estruturado, prá
 
 As seguintes fontes foram utilizadas como base para o treinamento e consultas no NotebookLM:
 
-1. []
-2. []
-3. []
-4. []
-5. []
-6. []
+1. https://github.com/aimohamedk/Cyber-Security-Books/blob/main/Art-of-invisibility--kevin-mitnick.pdf
+2. https://github.com/akr3ch/BugBountyBooks/blob/main/Hacking%20APIs%20-%20Early%20Access.pdf
+3. https://www.youtube.com/watch?v=tOX8lmffz4I
+4. https://ssd.eff.org/
+5. https://www.whonix.org/wiki/Documentation
 
 > Todas as fontes foram selecionadas com foco em confiabilidade técnica e relevância para o tema de anonimato e segurança digital.
 
@@ -103,7 +102,6 @@ Mesmo com o uso de VPN ou Tor, o anonimato pode ser comprometido por detalhes co
 Isso evidencia que ferramentas de privacidade não são suficientes por si só — é necessário compreender como o sistema operacional gerencia conexões e como o tráfego realmente flui na rede.
 O anonimato, portanto, deve ser tratado como um processo ativo de controle e verificação, e não como uma característica automática fornecida por uma única tecnologia.
 
-
 ## 🧠 Análise de OPSEC na Prática
 
 ### 🔹 Prompt Inicial
@@ -160,7 +158,7 @@ A resposta destacou os principais pilares:
 - Redução de fingerprinting através de navegadores padronizados  
 - Higiene comportamental, incluindo controle de metadados e padrões de uso  
 
-O conteúdo reforça que anonimato não depende de uma única ferramenta, mas da integração consistente entre ambiente, comportamento e tecnologia.
+> O conteúdo reforça que anonimato não depende de uma única ferramenta, mas da integração consistente entre ambiente, comportamento e tecnologia.
 ---
 
 ### 💡 Insight
